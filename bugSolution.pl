@@ -1,0 +1,1 @@
+my @array = (1, 2, 3);my $element = $array[2] if @array > 2; # Accessing an element only if it exists.  Alternatively use a defined check or exception handling if needed.
